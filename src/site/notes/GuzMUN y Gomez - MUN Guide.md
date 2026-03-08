@@ -10,3 +10,8 @@ welcome to the guzmun
 hello
 
 [[guzmun 1\|guzmun 1]]
+
+
+
+> [!NOTE] custom-question-type
+> Contentebafhjaebfjhaebfkadnaes
