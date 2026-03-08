@@ -4,8 +4,8 @@
 
 ![GYG.png](/img/user/GYG.png)
 
-welcome to[^2] the guzπmun[^1]
-![GYG copy.png](/img/user/GYG%20copy.png)
+welcome to[^2] the guzmun[^1]
+![GYG.webp](/img/user/GYG.webp)
 # heading 1
 hello
 
