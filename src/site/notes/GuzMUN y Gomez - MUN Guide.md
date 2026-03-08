@@ -4,8 +4,8 @@
 
 ![GYG.png](/img/user/GYG.png)
 
-welcome to the guzmun
-
+welcome to[^2] the guzπmun[^1]
+![GYG copy.png](/img/user/GYG%20copy.png)
 # heading 1
 hello
 
@@ -15,3 +15,9 @@ hello
 
 > [!info] ijraeufhaeifha
 > Contentebafhjaebfjhaebfkadnaes cream?
+
+hello
+
+[^1]: 
+
+[^2]: 
