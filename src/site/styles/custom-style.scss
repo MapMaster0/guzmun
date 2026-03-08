@@ -7,6 +7,7 @@ p {
 }
 
 .callout[data-callout="info"] {
+    background-color: grey;
     --callout-color: 253, 251, 212;
-    --callout-icon: ;
+    --callout-icon: info;
 }
