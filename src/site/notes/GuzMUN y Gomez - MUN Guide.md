@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/guz-mun-y-gomez-mun-guide/","tags":["gardenEntry"]}
 ---
 
-![U.png](/img/user/U.png)
+![GYG.png](/img/user/GYG.png)
 
 welcome to the guzmun
 
