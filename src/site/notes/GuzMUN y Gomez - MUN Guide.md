@@ -11,7 +11,7 @@ hello
 
 [[guzmun 1\|guzmun 1]]
 
-
+[[wahs\|wahs]]
 
 > [!info] ijraeufhaeifha
 > Contentebafhjaebfjhaebfkadnaes cream?
