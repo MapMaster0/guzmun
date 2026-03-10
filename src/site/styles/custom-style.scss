@@ -72,10 +72,11 @@ p {
 
 .callout[data-callout="info"] {
     background-color: grey;
-    --callout-color: 253, 251, 212;
-    --callout-icon: info;
+    callout-color: 253, 251, 212;
+    callout-icon: info;
 }
 .callout {
     backdrop-filter: none;
+    color: white
     z-index: 1;
 }
