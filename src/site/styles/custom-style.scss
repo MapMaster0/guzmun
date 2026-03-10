@@ -60,7 +60,7 @@ body::after  { bottom:0; height:50vh; }
         transform: translateX(0);
     }
     to {
-        transform: translateX(-1920px);
+        transform: translateX(-100%);
     }
 }
 
