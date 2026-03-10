@@ -9,16 +9,42 @@ html {
 }
 body {
     background-color: transparent;
+    margin: 0;
+    overflow-x: hidden;
 }
 
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
 
-@keyframes slide {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: -1920px 0;
-  }
+    width: 200%;
+    height: 100vh;
+
+    background-image:
+        url("https://raw.githubusercontent.com/MapMaster0/guzmun/main/src/site/img/user/guzmunbackground.png"),
+        url("https://raw.githubusercontent.com/MapMaster0/guzmun/main/src/site/img/user/guzmunbackground.png");
+
+    background-repeat: repeat-x;
+    background-position: 0 0, 1920px 0;
+    background-size: auto 100%;
+
+    animation: scrollbg 30s linear infinite;
+
+    z-index: -1;
+}
+
+body::before { top:0; height:50vh; }
+body::after  { bottom:0; height:50vh; }
+
+@keyframes scrollbg {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-1400px);
+    }
 }
 
 p {
