@@ -13,7 +13,7 @@ body {
     overflow-x: hidden;
 }
 
-body::before {
+body::before, body::after {
     content: "";
     position: fixed;
     top: 0;
