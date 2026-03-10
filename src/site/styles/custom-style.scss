@@ -5,6 +5,7 @@ body {
     background-color: transparent;
     margin: 0;
     overflow-x: hidden;
+    color: black;
 }
 
 body::before {
@@ -59,13 +60,13 @@ body::after  { bottom:0; height:50vh; }
         transform: translateX(0);
     }
     to {
-        transform: translateX(-1400px);
+        transform: translateX(-1920px);
     }
 }
 
 p {
-    border: 3px solid white;
-    color: grey;
+    border: 3px solid black;
+    color: black;
     background-color: yellow;
 }
 
