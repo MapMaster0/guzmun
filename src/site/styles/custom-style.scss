@@ -7,10 +7,32 @@ body {
     overflow-x: hidden;
 }
 
-body::before, body::after {
+body::before {
     content: "";
     position: fixed;
     top: 0;
+    left: 0;
+
+    width: 200%;
+    height: 100vh;
+
+    background-image:
+        url("https://raw.githubusercontent.com/MapMaster0/guzmun/main/src/site/img/user/guzmunbackground.png"),
+        url("https://raw.githubusercontent.com/MapMaster0/guzmun/main/src/site/img/user/guzmunbackground.png");
+
+    background-repeat: repeat-x;
+    background-position: 0 0, 1920px 0;
+    background-size: auto 100%;
+
+    animation: scrollbg 30s linear infinite;
+
+    z-index: -1;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    bottom: 0;
     left: 0;
 
     width: 200%;
