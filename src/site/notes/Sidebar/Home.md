@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-# Welcome to MUN!
+[GYG.png](/img/user/GYG.png)
 
 Heyo, what's poppin'~
 
