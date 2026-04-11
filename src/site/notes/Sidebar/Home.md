@@ -12,10 +12,3 @@ This is **may’s mun 101**, a guide for MUNs (at least in Singapore).
 - If you need to quickly refer to something, use the search bar to quickly find a keyword.
 
 If you have any suggestions for the guide, let me know on Telegram @onedollopofmayo — I’m always open for a chat~
-
-# heading 1
-hello
-## heading 2
-hello again
-### heading 3
-hello again again 
