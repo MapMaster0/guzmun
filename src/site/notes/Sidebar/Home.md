@@ -15,3 +15,4 @@ If you have any suggestions for the guide, let me know on Telegram @onedollopofm
 
 <span style="color: red;">This text is red</span>
 This text isn't
+Another one!
