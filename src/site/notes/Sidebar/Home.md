@@ -25,7 +25,7 @@ heres the [full doc](https://docs.google.com/document/d/18D3J3DFtxWZHqt6MpQzu5uo
 
 Model United Nations (MUN) conferences are simulated debates of the United Nations, where participants pretend to represent countries as *delegates* and discuss important issues in *councils*.
 
-MUNs are great platforms for students to learn more about global affairs, and build their capacity to engage with important topics.
+MUNs are great platforms for students to learn more about global affairs, and build their capacity to engage with important and relevant topics.
 
 > [!abstract] Example
 > You have signed up for a MUN and received an email from the organisers.
