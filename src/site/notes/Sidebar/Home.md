@@ -13,4 +13,4 @@ This is **may’s mun 101**, a guide for MUNs (at least in Singapore).
 
 If you have any suggestions for the guide, let me know on Telegram @onedollopofmayo — I’m always open for a chat~
 
-hello
+<span style="color: red;">This text is red</span>
