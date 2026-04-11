@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-[GYG.png](/img/user/GYG.png)
+![GYG.png](/img/user/GYG.png)
 
 Heyo, what's poppin'~
 
