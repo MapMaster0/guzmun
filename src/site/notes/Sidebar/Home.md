@@ -36,12 +36,12 @@ MUNs are great platforms for students to learn more about global affairs, and bu
 > [!info]- _Delegate_
 > **A formal representative of a country.** Participants of MUNs pretend to be delegates and debate _as if_ they were a delegate of their allocated country. 
 > 
-> _For example, the delegate of Norway will stand for freedom of speech in a debate on press freedom._
+> _For example, the delegate of Norway will stand for the **freedom of speech** in a debate on press freedom._
 
 > [!info]- _Council_
 > **An organisation where delegates debate on specific topics.** MUNs often have several councils.
 > 
-> _For example, a debate on press freedom will fall under UNESCO, because press freedom falls under the constitution of UNESCO._
+> _For example, a debate on press freedom will fall under UNESCO, because press freedom falls under the mandate of UNESCO._
 > 
 > Other councils that you may have heard of include:
 > - World Health Organisation (WHO)
