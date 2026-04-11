@@ -11,10 +11,13 @@ Welcome to <span style="color: goldenrod;"><strong>GuzMUN y Gomez</strong></span
 This is a MUN guide for beginners, suited for the Singaporean taste bud.
 
 - For first-timers, this guide is suitable as learning material if read in order.
-- If you need to quickly refer to something, use the search bar to quickly find a keyword.
+- If you need to quickly refer to something, use the search bar to find a keyword.
 - If you have any suggestions for the guide, let me know on Telegram @onedollopofmayo — I’m always open for a chat~
 
 Here's a quick 5W1H about MUN!
+
+guys its alm 3am i gotta sleep
+heres the [full doc](https://docs.google.com/document/d/18D3J3DFtxWZHqt6MpQzu5uojDlXhN-Cctnck5t_vJJs/edit?tab=t.0#heading=h.u1dpxrbi63u9) if u want
 
 ---
 
@@ -47,6 +50,4 @@ MUNs are great platforms for students to learn more about global affairs, and bu
 > - World Health Organisation (WHO)
 > - United Nations Children’s Fund (UNICEF)
 > - United Nations Security Council (UNSC)
-
-
 
