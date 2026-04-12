@@ -67,6 +67,11 @@ The topic guide often contains **questions a resolution must answer (QARMA)**. D
 > 
 > In hindsight, it's lowkey word vomit.
 
+---
+
+# Next: ???
+
+---
 
 
 [^1]: https://main.un.org/securitycouncil/en/content/decisions-and-outcomes.
