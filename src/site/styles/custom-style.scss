@@ -15,6 +15,12 @@ body {
     }
 }
 
+@media (min-width: 1000px) and (max-width: 1400px) {
+    .content {
+        max-width: var(--dg-content-max-width);
+    }
+}
+
   #floating-control {
     position: fixed;
     color: var(--link-color);
