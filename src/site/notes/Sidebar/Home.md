@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgShowInlineTitle":"false","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgShowInlineTitle":"false","dg-note-properties":{}}
 ---
 
 # Welcome to the WONDERFUL world of MUN!
