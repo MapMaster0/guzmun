@@ -9,3 +9,8 @@ body {
 .filetree-sidebar .site-logo {
     margin-bottom: 5px;
 }
+@media (max-width: 800px) {
+    .callout {
+        padding-right: 20px;
+    }
+}
