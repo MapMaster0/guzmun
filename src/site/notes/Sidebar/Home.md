@@ -73,6 +73,10 @@ Participants are known as **delegates**. Here are some of the other people invol
 
 ## Before signups
 
+### Head 3
+
+#### Head 4
+
 In every council, the Dais will write a **topic guide** (also known as a **study guide**). The topic guide details what delegates should research and debate about.
 
 ## Before the conference
