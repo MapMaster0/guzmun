@@ -23,15 +23,6 @@ Model United Nations (MUN) conferences are simulated debates of the United Natio
 
 MUNs are great platforms for students to learn more about global affairs, and build their capacity to engage with important and relevant topics.
 
-> [!abstract] Example
-> You have signed up for a MUN and received an email from the organisers.
-> 
-> _**Council:** United Nations Educational, Scientific and Cultural Organization (UNESCO)_
-> _**Topic:** Press Freedom_
-> _**Allocation:** China_
-> 
-> This means you will (pretend to) represent the government of China as a _delegate_ in the UNESCO _council_ on press freedom.
-
 > [!info]- _Delegate_
 > **A formal representative of a country.** Participants of MUNs pretend to be delegates and debate _as if_ they were a delegate of their allocated country. 
 > 
@@ -103,7 +94,7 @@ That's what this website is for!
 
 ---
 
-# Next: [[Sidebar/Your Ultimate Goal\|Your Ultimate Goal]]
+# Next: [[Sidebar/Getting Started\|Getting Started]]
 
 ---
 
