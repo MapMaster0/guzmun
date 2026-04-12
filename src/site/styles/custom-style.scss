@@ -23,9 +23,9 @@ body {
 
   #floating-control {
     position: fixed;
-    color: var(--link-color);
+    color: #DAA520;
     bottom: 1vmax;
-    right: 1vmax;
+    right: calc(1vmax + 5px);
     font-size: 24px;
     z-index: 999999;
     display: flex;
