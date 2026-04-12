@@ -46,7 +46,7 @@ The **topic guide** (or **study guide**) is a document containing useful informa
 
 # Resolutions: _The end of the debate_
 
-> United Nations resolutions are _the formal expression of the opinion or will of the organs which adopt them._
+> United Nations resolutions are _the formal expression of the opinion or will of the organs which adopt them._[^1]
 
 This sounds like word vomit to me. For all intents and purposes in MUN, a **resolution** is a document containing the solutions that the council has debated on and agree to support. Debate in MUN is simply a means to an end, and that end is the resolution.
 
@@ -69,3 +69,4 @@ The topic guide often contains **questions a resolution must answer (QARMA)**. D
 
 
 
+[^1]: https://main.un.org/securitycouncil/en/content/decisions-and-outcomes.
