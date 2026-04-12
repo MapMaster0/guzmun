@@ -17,7 +17,6 @@ This is a MUN guide for beginners, suited for the Singaporean taste bud.
 Here's a quick 5W1H about MUN!
 
 ---
-
 # Why?
 
 Model United Nations (MUN) conferences are simulated debates of the United Nations, where participants pretend to represent countries as *delegates* and discuss important issues in *councils*.
@@ -47,5 +46,14 @@ MUNs are great platforms for students to learn more about global affairs, and bu
 > - World Health Organisation (WHO)
 > - United Nations Children’s Fund (UNICEF)
 > - United Nations Security Council (UNSC)
+
+
+# Who?
+
+Participants
+
+# Hello
+
+yes
 
 heres the [full doc](https://docs.google.com/document/d/18D3J3DFtxWZHqt6MpQzu5uojDlXhN-Cctnck5t_vJJs/edit?tab=t.0#heading=h.u1dpxrbi63u9) if u want
