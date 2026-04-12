@@ -12,10 +12,13 @@ body {
 
 .callout {
     padding-right: 25px;
-    margin-top: 20px;
-    margin-bottom: 40px;
 }
-
+.callout + h1,
+.callout + h2,
+.callout + h3,
+.callout + h4 {
+    margin-top: 30px;
+}
 
 @media (min-width: 1000px) and (max-width: 1400px) {
     .content {
