@@ -77,19 +77,13 @@ In every council, the Dais will write a **topic guide** (also known as a **study
 
 ## Before the conference
 
-Delegates research on the debate topic and write a **position paper** — an essay to prove to the Dais that the delegate has done their research.
-
-Delegates also research their allocated country’s stance on the topic. During the debate, they must adhere to their country’s stance.
+Delegates research on the debate topic and their allocated country's **stance**. Then, delegates write a **position paper** — an essay to prove to the Dais that the delegate has done their research.
 
 ## During the conference
 
-The Dais will moderate the debate, and all the delegates will participate in the debate.
+The Dais will moderate the debate, and all the delegates will participate in the debate. _The debate mechanisms in MUNs are complicated and very different from typical debates._
 
-_The debate mechanisms in MUNs are complicated and very different from typical debates._
-
-The end result of a debate in a council is known as a **resolution**. This document encapsulates the actions that the council will take in response to the issues presented. 
-
-Different countries have different goals when it comes to the resolution — this is where the fun is. Delegates are expected to fight for their country’s stance and pass resolutions that strengthen _your_ country’s position.
+The end result of a debate in a council is known as a **resolution**. This document encapsulates the actions that the council will take in response to the issues presented. Different countries have different goals when it comes to the resolution — this is where the fun is. Delegates are expected to fight for their country’s stance and pass resolutions that strengthen _your_ country’s position.
 
 ## After the conference
 
