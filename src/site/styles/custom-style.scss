@@ -12,12 +12,13 @@ body {
 
 .callout {
     padding-right: 25px;
-    margin-top: 20px;
 }
 .callout + h1,
 .callout + h2,
 .callout + h3,
-.callout + h4 {
+.callout + h4,
+.callout + p,
+p + .callout {
     margin-top: 30px;
 }
 
