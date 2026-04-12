@@ -60,7 +60,7 @@ Draft resolutions that pass the vote become full-fledged resolutions.
 
 The topic guide often contains **questions a resolution must answer (QARMA)**. Draft resolutions written by delegates during debate should answer these questions.
 
-> [!abstract] Example
+> [!abstract]- Example
 > My friends and I wrote this QARMA for the topic of **press freedom** when we chaired UNESCO.
 > 
 > ![Screenshot 2026-04-13 at 2.27.53 AM.png](/img/user/00%20Misc/Screenshot%202026-04-13%20at%202.27.53%20AM.png)
