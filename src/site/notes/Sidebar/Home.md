@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgShowInlineTitle":"false","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"\"GuzMUN y Gomez: The best MUN guide in town!\"","pinned":"true","tags":["gardenEntry"],"dgShowInlineTitle":"false","dg-note-properties":{"title":"\"GuzMUN y Gomez: The best MUN guide in town!\""}}
 ---
 
 # Welcome to the WONDERFUL world of MUN!
