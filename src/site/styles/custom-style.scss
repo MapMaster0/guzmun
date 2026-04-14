@@ -42,7 +42,7 @@ h4 + .callout {
 
 // Custom callout (idea)
 .callout[data-callout="idea"] { 
-    --callout-color: 245, 133, 41;
+    --callout-color: var(--color-orange-rgb);
     --callout-icon: lightbulb;
 }
 
