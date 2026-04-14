@@ -9,6 +9,9 @@ body {
     --h2-weight: 600;
     --h3-weight: 550;
     --h4-weight: 500;
+    // Link colours
+    --link-color: goldenrod;
+    --link-color-hover: #c9981a;
 }
 .content h1:first-child {
     font-size: 3em !important;
