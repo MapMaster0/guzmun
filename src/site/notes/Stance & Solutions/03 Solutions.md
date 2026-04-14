@@ -20,11 +20,6 @@ In the United Nations, the only council that can pass **legally binding** resolu
 > 
 > Only the United Nations Security Council (UNSC) has a **legally binding** mandate, meaning the UNSC can make decisions that members **must** follow.
 
-> [!info]- _Legally binding_
-> **Decisions that members must follow, or there will be legal consequences.** 
-> 
-> Decisions that are not legally binding are not compulsory to be followed. They are effectively suggestions.
-
 ## General Assembly resolutions
 
 The mandate of the UNGA allows it to pass resolutions that
