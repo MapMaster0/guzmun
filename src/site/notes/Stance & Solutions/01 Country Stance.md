@@ -6,7 +6,7 @@ As a delegate, you act as an official representative of your allocated country. 
 
 Different countries have different stances on topics, especially for controversial topics. Often, the more controversial the topic, the more heated the debate.
 
-> [!abstract] Example
+> [!abstract]- Example
 > On the topic of **press freedom**, these countries may have the following stances.
 > 
 > **China:**
