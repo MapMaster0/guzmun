@@ -52,7 +52,7 @@ These are some types of solutions frequently proposed in MUNs:
 - **Frameworks** — e.g. establishing the Framework for Press Freedom (FPF) for countries to follow to improve their press freedom.
 - **Groups/organisations** with fun acronyms — e.g. founding an organisation called the Alliance for the Conservation of Reporting, Outreach, and News Yielding Media (ACRONYM) which…
 
-Establishing frameworks and organisations are common in MUN — this does not mean they are necessarily good solutions. However, they give beginner delegates a starting point. That being said, solutions are never cookie-cutter, meaning every topic will have unique solutions with unique considerations.
+Establishing frameworks and organisations are common in MUN — this does not mean they are necessarily good solutions. However, they give beginner delegates a starting point. That being said, **solutions are never cookie-cutter**, meaning every topic will have unique solutions with unique considerations.
 
 > [!warning]- Considerations
 > Establishing a so-and-so framework is not as simple as it sounds. Suppose a draft resolution reads:

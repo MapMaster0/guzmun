@@ -61,9 +61,10 @@ You should determine whether your country’s stance on the debate topic has cha
 
 If your country’s stance on the topic is unclear, you can look for the stance of **closely-aligned countries**.
 
-_For example, Denmark may struggle to find its stance on the Yemeni civil war. However, Denmark is closely aligned with other Nordic countries such as Norway and Finland. We can also research these countries’ stances on the topic._ 
+> [!abstract]- Example
+> Denmark may struggle to find its stance on the Yemeni civil war. However, Denmark is closely aligned with other Nordic countries such as Norway and Finland. We can also research these countries’ stances on the topic to make an educated guess on Denmark's stance.
 
-While it may be easier to participate in the debate with a country relevant to the topic, remember that in reality, every country will have something to say on the global stage. You just have to figure out what it is.
+While it may be easier to participate in the debate with a country relevant to the topic, remember that in reality, **every country will have something to say on the global stage**. You just have to figure out what it is.
 
 ---
 

@@ -8,7 +8,7 @@
 
 Draft resolutions need a two-third vote to pass, and many other votes during debate need a majority vote to pass. If you want to influence the flow of debate, you are going to need allies that vote alongside you.
 
-**See also:** Motions and Voting
+**See also:** [[Debate Mechanisms/07 Motions and Voting\|Motions and Voting]]
 
 Therefore, delegates with similar stances may form an informal alliance known as a **bloc**. Voting in blocs makes controlling the outcome of any vote much easier. In practice, each bloc will write their own draft resolution that aligns with their stances. Often, there are two or three draft resolutions per topic in a General Assembly council.
 
