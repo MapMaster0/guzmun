@@ -13,6 +13,12 @@ body {
     --link-color: #E49B0F; // Gamboge
     --link-color-hover: #cf8c0c;
 }
+
+// from my understanding, this changes the colour of the filenames on the filetree sidebar but not the internal links
+a.filename {
+    color: #c48900;
+}
+
 .content h1:first-child {
     font-size: 3em !important;
     margin-bottom: 1em;
