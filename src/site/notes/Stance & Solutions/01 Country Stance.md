@@ -20,7 +20,7 @@ Different countries have different stances on topics, especially for controversi
 
 It is impossible to determine the _exact_ stance of a country. We do not know what happens behind closed doors between national leaders and their ministers. However, we can make **educated guesses** based on information available to the public.
 
-## Primary, secondary and tertiary sources
+# Primary, secondary and tertiary sources
 
 > [!idea] Main Idea
 > Use legitimate sources to determine your stance. Read from a variety of sources, and prioritise secondary and tertiary sources over primary sources.
@@ -44,7 +44,7 @@ Typically, secondary sources are more valuable as they present information in a 
 > - Statements from national leaders
 > - Independent research on the situation in your country _(use secondary and tertiary sources where possible)_ 
 
-## Different governments
+# Different governments
 
 Depending on the election cycle (if any) of your allocated country, its government may have been led by different leaders over the course of recent history. Some topics may be divisive between different leaders while other topics are not.
 
@@ -57,7 +57,7 @@ You should determine whether your country’s stance on the debate topic has cha
 > 
 > Depending on the **freeze date**, you will have to determine the stance of the relevant government. If the freeze date is in 2025, the delegate of the United States would represent Donald Trump’s government, and take his government’s stance on the debate topic.
 
-## Geopolitics and international relations
+# Geopolitics and international relations
 
 If your country’s stance on the topic is unclear, you can look for the stance of **closely-aligned countries**.
 
