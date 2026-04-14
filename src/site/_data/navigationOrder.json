@@ -1,9 +1,12 @@
 {
   "/": [
     "Home",
-    "Getting Started",
     "Stance & Solutions",
     "page 1"
+  ],
+  "/Home": [
+    "Welcome",
+    "Getting Started"
   ],
   "/Stance & Solutions": [
     "Country Stance",
