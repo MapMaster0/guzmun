@@ -1,15 +1,13 @@
 {
   "/": [
-    "Home",
+    "Welcome",
+    "Getting Started",
     "Stance & Solutions",
+    "About",
     "page 1"
   ],
-  "/Home": [
-    "Welcome",
-    "Getting Started"
-  ],
   "/Stance & Solutions": [
-    "Country Stance",
-    "Blocs"
+    "01 Country Stance",
+    "02 Blocs"
   ]
 }
