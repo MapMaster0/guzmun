@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stance-and-solutions/02-blocs/","title":"Blocs","dg-note-properties":{"title":"Blocs"}}
+{"dg-publish":true,"permalink":"/stance-and-solutions/02-blocs/","title":"Blocs","dg-note-properties":{"title":"Blocs","aliases":["Blocs"]}}
 ---
 
 
@@ -32,6 +32,6 @@ Two countries may have similar stances on one topic, but different stances on an
 
 ---
 
-# Next: [[Solutions\|Solutions]]
+# Next: [[Stance & Solutions/03 Solutions\|Solutions]]
 
 ---

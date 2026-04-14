@@ -69,6 +69,6 @@ The topic guide often contains **questions a resolution must answer (QARMA)**. D
 
 ---
 
-# Next: [[Stance & Solutions/01 Country Stance\|01 Country Stance]]
+# Next: [[Stance & Solutions/01 Country Stance\|Country Stance]]
 
 ---

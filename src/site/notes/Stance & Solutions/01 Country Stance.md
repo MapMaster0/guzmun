@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stance-and-solutions/01-country-stance/","title":"Country Stance","dg-note-properties":{"title":"Country Stance"}}
+{"dg-publish":true,"permalink":"/stance-and-solutions/01-country-stance/","title":"Country Stance","dg-note-properties":{"title":"Country Stance","aliases":["Country Stance"]}}
 ---
 
 As a delegate, you act as an official representative of your allocated country. During debate, you **stand** for a set of values, beliefs and opinions that your allocated country's government holds. This is known as your country's **stance**.
@@ -67,6 +67,6 @@ While it may be easier to participate in the debate with a country relevant to t
 
 ---
 
-# Next: [[Stance & Solutions/02 Blocs\|02 Blocs]]
+# Next: [[Stance & Solutions/02 Blocs\|Blocs]]
 
 ---
