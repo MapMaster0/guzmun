@@ -36,7 +36,7 @@ Member states are free to not follow the recommendations.
 > 
 > Notice the verbs in _italics_. These verbs can only _recommend_ actions that countries can take. Verbs such as “declares” and “demands” cannot be used in non-binding resolutions.
 
-# Security Council resolutions
+## Security Council resolutions
 
 The United Nations Security Council (UNSC) may pass both legally binding and non-binding resolutions. These resolutions can mandate actions such as sanctions, military interventions, or ceasefires.
 
