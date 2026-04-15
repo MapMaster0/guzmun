@@ -31,8 +31,8 @@ Member states are free to not follow the recommendations.
 > [!abstract]- Example
 > Here are some recommendations from [an actual UNGA resolution](https://documents.un.org/doc/undoc/gen/n23/422/04/pdf/n2342204.pdf) regarding press freedom.
 > 
-> ![Screenshot 2026-04-15 at 12.26.40 AM.png](/img/user/Screenshot%202026-04-15%20at%2012.26.40%20AM.png)
-> ![Screenshot 2026-04-15 at 12.26.51 AM.png](/img/user/Screenshot%202026-04-15%20at%2012.26.51%20AM.png)
+> ![Screenshot 2026-04-15 at 12.26.40 AM.png](/img/user/00%20Misc/Screenshot%202026-04-15%20at%2012.26.40%20AM.png)
+> ![Screenshot 2026-04-15 at 12.26.51 AM.png](/img/user/00%20Misc/Screenshot%202026-04-15%20at%2012.26.51%20AM.png)
 > 
 > Notice the verbs in _italics_. These verbs can only _recommend_ actions that countries can take. Verbs such as “declares” and “demands” cannot be used in non-binding resolutions.
 

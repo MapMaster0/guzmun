@@ -50,7 +50,7 @@ The **topic guide** (or **study guide**) is a document containing useful informa
 
 This sounds like word vomit to me. For all intents and purposes in MUN, a **resolution** is a document containing the solutions that the council has debated on and agree to support. Debate in MUN is simply a means to an end, and that end is the resolution.
 
-![Screenshot 2026-04-13 at 2.25.08 AM.png](/img/user/00%20Misc/Screenshot%202026-04-13%20at%202.25.08%20AM.png)
+![DRs and Resolutions.png](/img/user/00%20Misc/DRs%20and%20Resolutions.png)
 
 There are often disagreements between delegates in a council. During the debate, delegates submit **draft resolutions**, and these are put to a vote. Every delegate can vote _for_ or _against_ each draft resolution, or _abstain_ from the vote.
 
