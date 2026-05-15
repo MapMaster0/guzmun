@@ -86,6 +86,6 @@ When researching the above, keep in mind the **rationale** behind any detail of 
 
 ---
 
-# Next: 
+# Next: [[Debate Mechanisms/D01 Overview\|Debate Mechanisms - Overview]]
 
 ---

@@ -8,6 +8,8 @@ Why, hello there~
 
 Welcome to <span style="color: goldenrod;"><strong>GuzMUN y Gomez</strong></span>! What would you like to have?
 
+![GuzMUN Home Picture.png](/img/user/00%20Misc/GuzMUN%20Home%20Picture.png)
+
 This is a MUN guide for beginners, suited for the Singaporean taste bud.
 
 - For first-timers, this guide is suitable as learning material if read in order.
@@ -98,4 +100,4 @@ That's what this website is for!
 
 ---
 
-heres the [full doc](https://docs.google.com/document/d/18D3J3DFtxWZHqt6MpQzu5uojDlXhN-Cctnck5t_vJJs/edit?tab=t.0#heading=h.u1dpxrbi63u9) if u want
+_GYG picture doodled over by three of my siblings!_
