@@ -30,8 +30,10 @@ Feel free to use this guide for your own purposes. You can even copy it and edit
 **Release date:** 2 May 2026
 
 ## 02-05-2026: Released v3.0
+
 - Rebranded to GuzMUN y Gomez~
 - The guide now lives on my personal website at **mun.fireflyhou.se**!
+- All content until Draft Resolutions available on the website.
 
 ## Pre-v3.0 changes and original document
 
