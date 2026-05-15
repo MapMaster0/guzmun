@@ -3,11 +3,22 @@
     "Home",
     "Getting Started",
     "Stance & Solutions",
+    "Debate Mechanisms",
     "About",
     "page 1"
   ],
   "/Stance & Solutions": [
     "01 Country Stance",
-    "02 Blocs"
+    "02 Blocs",
+    "03 Solutions"
+  ],
+  "/Debate Mechanisms": [
+    "D01 Overview",
+    "D02 Communicating Between Delegates",
+    "D03 Opening Speeches",
+    "D04 General Speakers' List",
+    "D05 Moderated Caucuses",
+    "D06 Unmoderated Caucuses",
+    "D07 Motions and Voting"
   ]
 }
