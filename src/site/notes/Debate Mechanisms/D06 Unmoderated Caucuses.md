@@ -20,7 +20,7 @@ A delegate who wishes to raise a motion for an Unmoderated Caucus must state the
 Delegates are free to roam around the meeting room, or even leave the meeting room to use the washroom. The chairs will also spectate the discussions that happen during the Unmoderated Caucus.
 
 > [!note]- Illustration
-> ![Unmoderated Caucus.png](/img/user/00%20Misc/Unmoderated%20Caucus.png)
+> ![Unmoderated Caucus (1).png](/img/user/00%20Misc/Unmoderated%20Caucus%20(1).png)
 
 # After the Unmoderated Caucus
 

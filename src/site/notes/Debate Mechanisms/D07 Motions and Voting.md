@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/debate-mechanisms/d07-motions-and-voting/","title":"Motions and Voting","dg-note-properties":{"aliases":["Motions and Voting"],"title":"Motions and Voting"}}
 ---
 
-Different delegates have different preferences and intentions. If the delegate of France wishes for an Unmoderated Caucus, but the delegate of China wants a Moderated Caucus instead — who gets what they want?
+_Different delegates have different preferences and intentions. If the delegate of France wishes for an Unmoderated Caucus, but the delegate of China wants a Moderated Caucus instead — who gets what they want?_
 
 **Motions** are formal requests that affect the entire council, submitted by delegates to the Dais.
 
@@ -100,6 +100,6 @@ It looks incredibly messy, so we’ll remove the following for simplicity:
 
 ---
 
-# Next: idk
+# Next: [[Draft Resolutions/R01 What are Draft Resolutions?\|What are Draft Resolutions?]]
 
 ---

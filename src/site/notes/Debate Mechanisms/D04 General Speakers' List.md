@@ -127,10 +127,10 @@ If a delegate is already on the GSL, they will not be allowed to join the GSL. T
 > 
 > Once the time is yielded back to the chairs, the delegate is removed from the GSL.
 > 
-> 6. Japan
-> 7. Russia
-> 8. Denmark
-> 9. United Kingdom
+> 1. Japan
+> 2. Russia
+> 3. Denmark
+> 4. United Kingdom
 > 
 > Then, the next speaker will be recognised and given the floor.
 > 
