@@ -45,3 +45,6 @@ However, I am simply one (1) person with one (1) opinion. In the following two d
 
 ---
 
+# Next: [[Preparing for the MUN/P02 Preparing Content\|Preparing Content]]
+
+---
