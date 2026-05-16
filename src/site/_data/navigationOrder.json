@@ -8,7 +8,8 @@
     "Awards & Certificates",
     "Miscellaneous",
     "Preparing for the MUN",
-    "About",
+    "Interacting with Others",
+    "Conclusion & About",
     "page 1"
   ],
   "/Stance & Solutions": [
@@ -46,5 +47,9 @@
     "P01 Should you script your speeches?",
     "P02 Preparing Content",
     "P03 Writing a Position Paper"
+  ],
+  "/Interacting with Others": [
+    "E01 Social Experience",
+    "E02 Conflicts of Interest"
   ]
 }
