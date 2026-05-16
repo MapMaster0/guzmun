@@ -7,6 +7,7 @@
     "Draft Resolutions",
     "Awards & Certificates",
     "Miscellaneous",
+    "Preparing for the MUN",
     "About",
     "page 1"
   ],
@@ -40,5 +41,10 @@
     "M02 Order of Disruptiveness",
     "M03 Working Papers",
     "M04 Press Conferences"
+  ],
+  "/Preparing for the MUN": [
+    "P01 Should you script your speeches?",
+    "P02 Preparing Content",
+    "P03 Writing a Position Paper"
   ]
 }
