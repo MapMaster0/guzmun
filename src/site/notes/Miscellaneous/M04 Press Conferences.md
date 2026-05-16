@@ -13,6 +13,6 @@ Delegates’ responses to the questions during the press conference can affect y
 
 ---
 
-# Next: [[Awards & Certificates\|Awards & Certificates]]
+# Next: [[Preparing for the MUN/P01 Should you script your speeches?\|Should you script your speeches?]]
 
 ---

@@ -12,6 +12,6 @@
 
 ---
 
-# Next: [[Miscellaneous/M01 Points\|Points]]
+# Next: [[Miscellaneous/M00 Awards & Certificates\|Awards & Certificates]]
 
 ---
