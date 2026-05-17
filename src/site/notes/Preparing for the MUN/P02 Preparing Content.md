@@ -44,7 +44,7 @@ Preparing a working paper before the conference is known as **pre-writing**, whi
 Have the _content_ of your solutions ready in your preparation, and create your working paper during the council sessions. This also gives you the flexibility to adapt your material to be relevant to other delegates’ content (e.g. if another delegate proposes a similar idea).
 
 > [!info]- Sample Working Papers
-> These are some working papers I submitted for SMUN 2025 (UNSC) and YMAX 2025 (Special Defence Dialogue).
+> These are some working papers I submitted for SMUN 2025 (UNSC), YMAX 2025 (Special Defence Dialogue), OPMUN 2025 (Historical Select Committee) and GYLS 2025 (UNSC).
 > 
 > [Sample Working Papers](https://drive.google.com/drive/folders/1XUnB5jQcy3BqGKlDipVSDlaPpmTjHCLH?usp=sharing)
 

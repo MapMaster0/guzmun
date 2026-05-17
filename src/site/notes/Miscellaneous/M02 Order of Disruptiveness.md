@@ -51,10 +51,10 @@ Motions can only be called when the Dais opens the floor to motions. If a more d
 > 
 > By the order of disruptiveness, the motions will be entertained in this order:
 > 
-> 15. **[China]** Unmoderated Caucus (8 minutes)
-> 16. **[United States]** Moderated Caucus (9 minutes, 9 speakers)
-> 17. **[Denmark]** Moderated Caucus (9 minutes, 6 speakers)
-> 18. **[Singapore]** Change Speaking Time
+> 1. **[China]** Unmoderated Caucus (8 minutes)
+> 2. **[United States]** Moderated Caucus (9 minutes, 9 speakers)
+> 3. **[Denmark]** Moderated Caucus (9 minutes, 6 speakers)
+> 4. **[Singapore]** Change Speaking Time
 > 
 > The first procedural vote is conducted on **China’s** motion for an Unmoderated Caucus. Suppose this motion **fails**.
 > 
