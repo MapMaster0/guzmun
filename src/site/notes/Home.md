@@ -8,7 +8,7 @@ Why, hello there~
 
 Welcome to <span style="color: goldenrod;"><strong>GuzMUN y Gomez</strong></span>! What would you like to have?
 
-![GuzMUN Home Picture.png](/img/user/00%20Misc/GuzMUN%20Home%20Picture.png)
+![GuzMUN Home Picture.jpeg](/img/user/00%20Misc/GuzMUN%20Home%20Picture.jpeg)
 
 This is a MUN guide for beginners, suited for the Singaporean taste bud.
 
