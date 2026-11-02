@@ -48,6 +48,7 @@ We aren’t actually representatives of countries. This gives us the flexibility
 
 These are some types of solutions frequently proposed in MUNs:
 
+- **Principles** — Overarching values that all solutions should follow
 - **Direct actions** — e.g. calling upon all states to release imprisoned journalists.
 - **Frameworks** — e.g. establishing the Framework for Press Freedom (FPF) for countries to follow to improve their press freedom.
 - **Groups/organisations** with fun acronyms — e.g. founding an organisation called the Alliance for the Conservation of Reporting, Outreach, and News Yielding Media (ACRONYM) which…
